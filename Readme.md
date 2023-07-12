@@ -1,3 +1,5 @@
+# Planning Algorithms #
+
 | Algorithm  | Image | Title | Code | Paper(s) | Video(s) | 
 |      :---:   |      :---:     | ------------- |      :---:       |      :---:       |      :---:       |
 | **RMADER**  |  <img src='./imgs/rmader.jpg' width='1000'> | Robust MADER: Decentralized Multiagent Trajectory Planner Robust to Communication Delay in Dynamic Environments  | [code](https://github.com/mit-acl/rmader) | [RA-L](https://arxiv.org/abs/2303.06222), [ICRA](https://arxiv.org/abs/2209.13667) | [RA-L](https://youtu.be/i1d8di2Nrbs), [ICRA](https://youtu.be/vH09kwJOBYs)
